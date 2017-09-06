@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/polyu/catkin_rplidar_ws/devel_isolated/hector_slam_example/setup.sh

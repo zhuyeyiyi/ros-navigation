@@ -1,0 +1,8 @@
+prefix=/home/polyu/catkin_rplidar_ws/devel
+
+Name: rplidar_ros
+Description: Description of rplidar_ros
+Version: 1.5.7
+Cflags: 
+Libs: -L/home/polyu/catkin_rplidar_ws/devel/lib 
+Requires: 

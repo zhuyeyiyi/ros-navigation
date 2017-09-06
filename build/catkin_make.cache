@@ -1,0 +1,2 @@
+hector_slam_example:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/polyu/catkin_rplidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/polyu/catkin_rplidar_ws/install -G Unix Makefiles
